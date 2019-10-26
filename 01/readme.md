@@ -18,6 +18,13 @@ Vorschlag: Installiere die Anaconda Python distribution.
 
 Kannst Du nach der Installation dieses [Hello World](hello.py) Programm ausfuehren?
 
+## Vertiefungsvorschläge
+
+- Kannst Du das Programm [hello.py](hello.py) auf deinen Rechner
+  runterladen, und dann als Pythonprogramm ausführen? (Wie?)
+- Kannst Du ``hello.py`` von der Kommandozeile ausführen (``python hello.py``?)
+- Kannst Du das Programm verändern?
+
 ## Hintergrundinformationen zu Anaconda und Python installationen
 
 - Mehr details (auf Englisch) unter https://fangohr.github.io/blog/installation-of-python-spyder-numpy-sympy-scipy-pytest-matplotlib-via-anaconda.html
