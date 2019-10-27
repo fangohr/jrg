@@ -12,7 +12,7 @@
 - [01 Python installieren / finden](01/readme.md)
 - [02 Programme mit Spyder ausführen](02-spyder/readme.md)
 - [03 Zeichnen mit Schildkröten](03-turtle/readme.md)
-- . . .
+- [04 Schleifen in Python](04-for-loop/readme.md)
 
 # Programmiersprache
 - Wir benutzen Python: eine moderne Sprache, die relativ leicht zu
