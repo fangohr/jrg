@@ -1,33 +1,19 @@
 # For-loop - Schleifen in Python
 
 - Ziel:
-  - For-loop kennenlearnen
+  - Kennenlernen von
+  - `for`-Schleife
+  - `list` Objekten
+  - `range` Befehl
 
-## Turtle bewegen
+## Beispiele und Aufgaben
 
-- Beispiele und Aufgaben: Beispiel 1: Eine Linie zeichnen [turtle-line.ipynb](turtle-line.ipynb) ([Backup link](https://nbviewer.jupyter.org/github/fangohr/jrg/blob/master/03-turtle/turtle-line.ipynb))
+Sind hier zu finden: [for-loop.ipynb](for-loop.ipynb) ([Backup link html](https://nbviewer.jupyter.org/github/fangohr/jrg/blob/master/04-for-loop/04-for-loop.ipynb)) (https://mybinder.org/v2/gh/fangohr/jrg/master?filepath=04-for-loop%2Ffor-loop.ipynb
+Copy to clipboard)
 
-- Beispiel 2: Ein Quadrat zeichnen [turtle-square.ipynb](turtle-square.ipynb) ([Backup link](https://nbviewer.jupyter.org/github/fangohr/jrg/blob/master/03-turtle/turtle-square.ipynb))
-
-## Aufgabe 1 - Dreieck
-
-Schreibe ein Programm, das mit Hilfe der Schildkröte ein Dreieck mit
-Kantenlänge von 60 Pixeln zeichnet.
-
-## Aufgabe 2 - Dreieck
-
-Schreibe ein Programm, das mit Hilfe der Schildkröte ein Sechseck mit
-Kantenlänge von 60 Pixeln zeichnet.
-
-## Aufgabe 3 - Das Haus vom Nikolaus
-
-Schreibe ein Programm, das das [Haus vom
-Nikolaus](https://de.wikipedia.org/wiki/Haus_vom_Nikolaus) zeichnet:
-
-![Haus vom Nikolaus](Haus vom Nikolaus)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jrg/master?filepath=04-for-loop%2Ffor-loop.ipynb)
 
 
-# TODO
+# Vertiefung
 
-- [ ] work out solutions
-- [ ] Offer binder instance with Turtle drawing in notebook
+- Datentypen: Chapter 3 in https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/master/Readme.md https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/library-current-versions?filepath=index.ipynb
