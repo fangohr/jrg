@@ -32,7 +32,6 @@ Nikolaus](https://de.wikipedia.org/wiki/Haus_vom_Nikolaus) zeichnet:
 ![Haus vom Nikolaus](haus-vom-nikolaus.jpeg)
 
 
-# TODO
+## Aufgabe 4
 
-- [ ] work out solutions
-- [ ] Offer binder instance with Turtle drawing in notebook
+Was kannst Du noch für andere Figuren zeichnen?
