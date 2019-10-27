@@ -5,10 +5,8 @@
   - Pythonkenntnisse:
     - imperatives Ausführen von Anweisungen
     - Variablenzuweisung
-    - Schleifen
 - Erforderliche Vorkenntnisse: Keine
-- Hilfsmittel: Pythoninterpreter / Spyder
-
+- Hilfsmittel: Pythoninterpreter / Spyder / Jupyter Notebook
 
 ## Turtle bewegen
 
@@ -25,3 +23,16 @@ Kantenlänge von 60 Pixeln zeichnet.
 
 Schreibe ein Programm, das mit Hilfe der Schildkröte ein Sechseck mit
 Kantenlänge von 60 Pixeln zeichnet.
+
+## Aufgabe 3 - Das Haus vom Nikolaus
+
+Schreibe ein Programm, das das [Haus vom
+Nikolaus](https://de.wikipedia.org/wiki/Haus_vom_Nikolaus) zeichnet:
+
+![Haus vom Nikolaus](Haus vom Nikolaus)
+
+
+# TODO
+
+- [ ] work out solutions
+- [ ] Offer binder instance with Turtle drawing in notebook
