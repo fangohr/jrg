@@ -1,9 +1,9 @@
 # Turtle graphics - erste Schritte
 
 - Ziel:
-  - erste Programme mit Schildkroetengrafik (turtle graphics) schreiben
+  - erste Programme mit Schildkrötengrafik (turtle graphics) schreiben
   - Pythonkenntnisse:
-    - imperatives ausführen von Anweisungen
+    - imperatives Ausführen von Anweisungen
     - Variablenzuweisung
     - Schleifen
 - Erforderliche Vorkenntnisse: Keine
@@ -12,7 +12,7 @@
 
 ## Option 1: Turtle bewegen
 
-Beispiel 1: Eine Linie zeichnen [turtle-line.ipynb][turtle-line.ipynb]
+Beispiel 1: Eine Linie zeichnen [turtle-line.ipynb](turtle-line.ipynb)
 
 ## Option 2: Auf dem eigenen Laptop
 
