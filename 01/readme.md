@@ -1,4 +1,4 @@
-# Python finder oder installieren
+# Python finden oder installieren
 
 - Ziel: Python interpreter finden, und ein gegebenes Programm ausfuehren
 - Erforderliche Vorkenntnisse: Keine
