@@ -1,1 +1,24 @@
-# jrg
+# Programmier AG
+
+- Montags 16:00 in Computerraum
+- Offen für alle, die
+  - am Programmieren interessiert sind, oder
+  - rausfinden wollen, was Programmierer ist, oder
+  - bereit sind, anderen beim Programmieren lernen zu helfen
+
+
+# Themenblöcke
+
+- [01 Python installieren / finden](01/readme.md)
+- [02 Programme mit Spyder ausführen)(02-spyder/readme.md)
+- [03 Zeichnen mit Schildkröten)(03-turtle/readme.md)
+- . . .
+
+# Programmiersprache
+- Wir benutzen Python: eine moderne Sprache, die relativ leicht zu
+  lernen ist, vielseitig ist, und an Bedeutung gewinnt.
+
+# Computer
+- Wir hoffen, Python und Spyder auf den JRG Computern anbieten zu können
+- Wer einen Laptop mitbringen kann, sollte dies tun: wir können dann
+  Python darauf installieren
