@@ -1,8 +1,10 @@
 # Python finden oder installieren
 
-- Ziel: Python interpreter finden, und ein gegebenes Programm ausfuehren
+- Ziel: 
+  - Pythoninterpreter finden, 
+  - und ein gegebenes Programm ausführen
 - Erforderliche Vorkenntnisse: Keine
-- Hilfsmittel: Möglicherweise jemanden, der um Rat gefragt werden kann.
+- Hilfsmittel: Möglicherweise jemanden, der um Rat gefragt werden kann
 
 ## Option 1: Auf den JRG Computern
 
@@ -11,19 +13,19 @@ World](hello.py) Programm ausfuehren?
 
 ## Option 2: Auf dem eigenen Laptop
 
-Vorschlag: Installiere die Anaconda Python distribution.
+Vorschlag: Installiere die Anaconda Python Distribution.
 
-- Kann [hier](https://www.anaconda.com/distribution/) runtergeladen werden
-- Bitte waehle Python 3 (im Jahr 2019) (nicht Python 2.7.).
+- Kann von https://www.anaconda.com/distribution/ runtergeladen werden
+- Bitte waehle Python 3 (im Jahr 2019) (nicht Python 2.7).
 
-Kannst Du nach der Installation dieses [Hello World](hello.py) Programm ausfuehren?
+Kannst Du nach der Installation dieses [Hello World](hello.py) Programm ausführen?
 
 ## Vertiefungsvorschläge
 
 - Kannst Du das Programm [hello.py](hello.py) auf deinen Rechner
   runterladen, und dann als Pythonprogramm ausführen? (Wie?)
 - Kannst Du ``hello.py`` von der Kommandozeile ausführen (``python hello.py``?)
-- Kannst Du das Programm verändern?
+- Kannst Du das Programm verändern und ausführen?
 
 ## Hintergrundinformationen zu Anaconda und Python installationen
 
