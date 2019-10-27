@@ -5,6 +5,7 @@
   - am Programmieren interessiert sind, oder
   - rausfinden wollen, was Programmierer ist, oder
   - bereit sind, anderen beim Programmieren lernen zu helfen
+- tinyurl für diese Seite ist: https://tinyurl.com/jrg-python
 
 
 # Themenblöcke
