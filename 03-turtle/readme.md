@@ -19,7 +19,7 @@
 Schreibe ein Programm, das mit Hilfe der Schildkröte ein Dreieck mit
 Kantenlänge von 60 Pixeln zeichnet.
 
-## Aufgabe 2 - Dreieck
+## Aufgabe 2 - Sechseck
 
 Schreibe ein Programm, das mit Hilfe der Schildkröte ein Sechseck mit
 Kantenlänge von 60 Pixeln zeichnet.
