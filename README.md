@@ -10,8 +10,8 @@
 # Themenblöcke
 
 - [01 Python installieren / finden](01/readme.md)
-- [02 Programme mit Spyder ausführen)(02-spyder/readme.md)
-- [03 Zeichnen mit Schildkröten)(03-turtle/readme.md)
+- [02 Programme mit Spyder ausführen](02-spyder/readme.md)
+- [03 Zeichnen mit Schildkröten](03-turtle/readme.md)
 - . . .
 
 # Programmiersprache
