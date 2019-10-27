@@ -29,7 +29,7 @@ Kantenlänge von 60 Pixeln zeichnet.
 Schreibe ein Programm, das das [Haus vom
 Nikolaus](https://de.wikipedia.org/wiki/Haus_vom_Nikolaus) zeichnet:
 
-![Haus vom Nikolaus](Haus vom Nikolaus)
+![Haus vom Nikolaus](haus-vom-nikolaus.png)
 
 
 # TODO
