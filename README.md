@@ -23,6 +23,7 @@
 - Wir hoffen, Python und Spyder auf den JRG Computern anbieten zu können
 - Wer einen Laptop mitbringen kann, sollte dies tun: wir können dann
   Python darauf installieren
+  - Alternativ bitte einen USB-Stick mitbringen, um Programme darauf sichern zu können 
 - Dieses Repository als [zip Datei](https://github.com/fangohr/jrg/archive/master.zip) runterladen 
 
 
