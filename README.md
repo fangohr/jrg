@@ -1,15 +1,13 @@
 # Programmier AG
-
 - Montags 16:00 in Computerraum (erster Termin Montag 11 November 2019)
 - Offen für alle, die
   - am Programmieren interessiert sind, oder
   - rausfinden wollen, was Programmierer ist, oder
   - bereit sind, anderen beim Programmieren lernen zu helfen
+  - im Moment für Schülerinnen und Schüler von Klasse 8 aufwärts
 - tinyurl für diese Seite ist: https://tinyurl.com/jrg-python
 
-
 # Themenblöcke
-
 - [01 Python installieren / finden](01/readme.md)
 - [02 Programme mit Spyder ausführen](02-spyder/readme.md)
 - [03 Zeichnen mit Schildkröten](03-turtle/readme.md)
