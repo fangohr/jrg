@@ -1,6 +1,6 @@
 # Programmier AG
 
-- Montags 16:00 in Computerraum
+- Montags 16:00 in Computerraum (erster Termin Montag 11 November 2019)
 - Offen für alle, die
   - am Programmieren interessiert sind, oder
   - rausfinden wollen, was Programmierer ist, oder
@@ -27,4 +27,4 @@
 
 
 # Material for Fortgeschrittene
-- 
+- Primzahlenberechnung (Soll hier noch hinzugefügt werden . . .)
