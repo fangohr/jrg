@@ -1,6 +1,6 @@
 # Programmier AG
 
-![alt text] (https://raw.githubusercontent.com/fangohr/jrg/master/posters.jpg "Posters")
+![alt text] (https://raw.githubusercontent.com/fangohr/jrg/master/posters.png "Posters")
 
 - Montags 16:00 in Computerraum (erster Termin Montag 11 November 2019)
 - Offen für alle, die
