@@ -1,4 +1,5 @@
 # Programmier AG
+![alt text] (https://github.com/fangohr/jrg/blob/master/posters.jpg)
 - Montags 16:00 in Computerraum (erster Termin Montag 11 November 2019)
 - Offen für alle, die
   - am Programmieren interessiert sind, oder
