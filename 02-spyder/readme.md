@@ -5,11 +5,11 @@
 
 ## Spyder Tutorial: "First steps with Spyder"
 
-- Starte Spyder auf deinem computer
+- Starte Spyder auf deinem Computer
 - Gehe zum Menü und wähle aus:``Help -> Spyder Tutorial``
 - Innerhalb dieses Tutorials, arbeite Dich durch die Sektion
   ``First steps with Spyder``.
-- Frag andere oder Betreuer, wenn Du mit dem Englischen text oder den
+- Frag andere oder Betreuer, wenn Du mit dem englischen Text oder den
   Inhalten Schwierigkeiten hast.
 - Höre spätestens auf zu lesen, wenn der Abschnitt ``Recommended first
   steps for Python beginners`` anfängt.
