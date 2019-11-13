@@ -16,7 +16,7 @@
 - [02 Programme mit Spyder ausführen](02-spyder/readme.md)
 - [03 Zeichnen mit Schildkröten](03-turtle/readme.md)
 - [04 Schleifen in Python](04-for-loop/readme.md)
-- [05 Schleifen mit Schildkröten](05-turtle-loops/readme.md)
+- [05 Schleifen mit Schildkröten](05-turtle-loop/readme.md)
 - [06 Schleife in Schleife](06-nested-loops/readme.md)
 
 # Programmiersprache
