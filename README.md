@@ -8,6 +8,9 @@
   - im Moment für Schülerinnen und Schüler von Klasse 8 aufwärts
 - tinyurl für diese Seite ist: https://tinyurl.com/jrg-python
 
+# Aufwärmübungen
+- Algorithmen, Funktionen/Prozeduren, Schleifen - [grafisches Programmieren mit Lightbot](https://lightbot.com/hour-of-code.html)
+
 # Themenblöcke
 - [01 Python installieren / finden](01/readme.md)
 - [02 Programme mit Spyder ausführen](02-spyder/readme.md)
