@@ -10,7 +10,7 @@
 
 # Aufwärmübungen
 - Kurz: Algorithmen, Funktionen/Prozeduren, Schleifen - [grafisches Programmieren mit Lightbot](https://lightbot.com/hour-of-code.html)
-- Länger: [Grafisches (Spiele?) Programmieren mit Scratch (der Katze)](https://scratch.mit.edu)
+- Länger: [Grafisches (Spiele-)Programmieren mit Scratch (der Katze)](https://scratch.mit.edu)
 
 # Themenblöcke
 - [01 Python installieren / finden](01/readme.md)
