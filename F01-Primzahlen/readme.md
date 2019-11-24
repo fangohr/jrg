@@ -15,7 +15,8 @@
 
 Die Aufgaben sind mit etwas mehr Details hier beschrieben: [notes.ipynb](notes.ipynb) ([Backup Link](https://nbviewer.jupyter.org/github/fangohr/jrg/blob/master/F01-Primzahlen/notes.ipynb))
 
-Du kannst in Spyder arbeiten, oder interaktiv "in the Cloud" mit [Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/jrg/master?filepath=F01-Primzahlen/notes.ipynb).
+Du kannst in Spyder arbeiten, oder [interaktiv "in the Cloud" mit Binder](https://mybinder.org/v2/gh/fangohr/jrg/master?filepath=F01-Primzahlen%2Fnotes.ipynb).
+
 
 
 
