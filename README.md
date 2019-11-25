@@ -28,9 +28,9 @@
 - Wir hoffen, Python und Spyder auf den JRG Computern anbieten zu können
 - Wer einen Laptop mitbringen kann, sollte dies tun: wir können dann
   Python darauf installieren
-  - Alternativ bitte einen USB-Stick mitbringen, um Programme darauf sichern zu können 
-- Dieses Repository als [zip Datei](https://github.com/fangohr/jrg/archive/master.zip) runterladen 
+  - Alternativ bitte einen USB-Stick mitbringen, um Programme darauf sichern zu können
+- Dieses Repository als [zip Datei](https://github.com/fangohr/jrg/archive/master.zip) runterladen
 
 
 # Material for Fortgeschrittene
-- Primzahlenberechnung (Soll hier noch hinzugefügt werden . . .)
+- [F01 - Primzahlenberechnung](F01-Primzahlen/readme.md)
