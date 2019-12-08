@@ -1,9 +1,14 @@
+# News
+
+- Am 16.12.2019 ist letzter Term dieses Jahr (16:05)
+- Am 9.12.2019 muß die Veranstaltung vielleicht ausfallen - genau wissen wir es erst am Tag selbst.
+
 # Programmier AG
 
-- Montags 16:00 in Computerraum (erster Termin Montag 11 November 2019)
+- Montags 16:05 in Computerraum 
 - Offen für alle, die
   - am Programmieren interessiert sind, oder
-  - rausfinden wollen, was Programmierer ist, oder
+  - rausfinden wollen, was Programmieren ist, oder
   - bereit sind, anderen beim Programmieren lernen zu helfen
   - im Moment für Schülerinnen und Schüler von Klasse 8 aufwärts
 - tinyurl für diese Seite ist: https://tinyurl.com/jrg-python
