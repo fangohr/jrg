@@ -2,6 +2,9 @@
 
 - Ziel:
   - Funktionenbegriff in Python kennen
+  
+- Erforderliche Vorkenntnisse:
+  - Schleifen (for) hilfreich. (see [04-for-loop](../04-for-loop/readme.md))
 
 ## Beispiele und Aufgaben
 
