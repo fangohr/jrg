@@ -6,6 +6,11 @@
 - Erforderliche Vorkenntnisse:
   - Schleifen (for) hilfreich. (see [04-for-loop](../04-for-loop/readme.md))
 
+- Andere Themen in Aufgaben:
+  - Python: `time` module
+  - Unix epoch
+  - Mathematik: Satz des Pythagoras
+
 ## Beispiele und Aufgaben
 
 Sind hier zu finden: [notes.ipynb](notes.ipynb) ([Backup link html](https://nbviewer.jupyter.org/github/fangohr/jrg/blob/master/07-functions/notes.ipynb))
