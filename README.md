@@ -39,3 +39,4 @@
 
 # Material for Fortgeschrittene
 - [F01 - Primzahlenberechnung](F01-Primzahlen/readme.md)
+- [F02 - Fibonaccizahlen und Folgen](F02-Fibonacci-Folge/readme.md)
