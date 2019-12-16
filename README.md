@@ -1,7 +1,6 @@
 # News
 
 - Am 16.12.2019 ist letzter Term dieses Jahr (16:05)
-- Am 9.12.2019 muß die Veranstaltung vielleicht ausfallen - genau wissen wir es erst am Tag selbst.
 
 # Programmier AG
 
@@ -24,6 +23,7 @@
 - [04 Schleifen in Python](04-for-loop/readme.md)
 - [05 Schleifen mit Schildkröten](05-turtle-loop/readme.md)
 - [06 Schleife in Schleife](06-nested-loops/readme.md)
+- [07 Funktionen](07-functions/readme.md)
 
 # Programmiersprache
 - Wir benutzen Python: eine moderne Sprache, die relativ leicht zu
