@@ -1,0 +1,16 @@
+- functions: maths and python (07)
+- quadratic equations
+- root finding (bisection)
+  - implement
+  - example exercises
+    - compare with analytic result where possible
+- find maximum
+  - implement (what method??)
+- introduce derivative through central differences
+- exercises:
+  - compute and plot derivative
+  - introduce taking derivative analytically
+  - examples:
+    - find maxima/minima through root of derivative
+
+
