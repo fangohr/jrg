@@ -24,6 +24,7 @@
 - [05 Schleifen mit Schildkröten](05-turtle-loop/readme.md)
 - [06 Schleife in Schleife](06-nested-loops/readme.md)
 - [07 Funktionen](07-functions/readme.md)
+- [10 Funktionen zeichnen](10-functionplotting/readme.md)
 
 # Programmiersprache
 - Wir benutzen Python: eine moderne Sprache, die relativ leicht zu
