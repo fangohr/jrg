@@ -4,7 +4,7 @@
   - mathematische Funktionen vom Typ f(x) graphisch darstellen
   
 - Erforderliche Vorkenntnisse:
-  - Schleifen (for) hilfreich. (see [04-for-loop](../04-for-loop/readme.md))
+  - Schleifen (for) und Listen hilfreich. (see [04-for-loop](../04-for-loop/readme.md))
   - Funktionen (see [07-functions/readme.md])
 
 - Andere Themen in Aufgaben:
@@ -20,3 +20,4 @@ Sind hier zu finden: [notes.ipynb](notes.ipynb) ([Backup link html](https://nbvi
 # Vertiefungsmaterial
 
 - Visualising data: Chapter 15 in [Python book (engl)](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/master/Readme.md) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/library-current-versions?filepath=index.ipynb)
+
